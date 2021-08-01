@@ -23,6 +23,6 @@ const main = {
   ],
   links: [
     { name: 'Projects', link: './projects.html' },
-    { nombre : 'CV' , enlace : 'https://drive.google.com/file/d/1-lTiG_tj2EUuL1GA6DRiZgYezYalZYCc/view?usp=drivesdk'},
+     { name: 'Cv', link: 'https://drive.google.com/file/d/1-lTiG_tj2EUuL1GA6DRiZgYezYalZYCc/view?usp=sharing' },
   ]
 };
