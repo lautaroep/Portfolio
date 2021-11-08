@@ -18,7 +18,7 @@ const main = {
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'lautaroepastor@gmail.com'}?Subject=Hello%20again`
+      link: `mailto:${'fileslautaro@gmail.com'}?Subject=Hello%20again`
     }
   ],
   links: [
