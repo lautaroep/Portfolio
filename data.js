@@ -18,11 +18,11 @@ const main = {
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'fileslautaro@gmail.com'}?Subject=Hello%20again`
+      link: `mailto:${'lautaroepastor@gmail.com'}?Subject=Hello%20again`
     }
   ],
   links: [
     { name: 'Projects', link: './projects.html' },
-     { name: 'Cv', link: 'https://drive.google.com/file/d/1-lTiG_tj2EUuL1GA6DRiZgYezYalZYCc/view?usp=sharing' },
+     { name: 'Cv', link: 'https://drive.google.com/file/d/1anBdp37lexmhkrsPe_bwvkcAqtMv2Y9i/view?usp=sharing' },
   ]
 };
