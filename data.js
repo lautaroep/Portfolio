@@ -2,7 +2,7 @@ const main = {
   name: 'Lautaro',
   mail: 'Lautaroepastor@gmail.com',
   img: 'img/user.gif',
-  role: ['Frontend Jr Developer'],
+  role: ['Frontend Jr Developer // Tester QA'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
